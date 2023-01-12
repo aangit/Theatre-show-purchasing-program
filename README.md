@@ -48,7 +48,7 @@ Logging in as an employee (option 2):
 
 In the interactive interface, there are as well other methods which are being used for implementing the employee menu and guest menu. 
 
-You will notice as well that in the method create_show_from_input, where the shows were actually created without an input from a user, but it was implemented for the testing purposes.  
+You will notice as well that in the method `create_show_from_input`, where the shows were actually created without an input from a user, but it was implemented for the testing purposes.  
 
 
 
